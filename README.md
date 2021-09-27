@@ -1,2 +1,2 @@
-# dev-sl-time-calculator
+# time-calculator
 Time Calculator to OL 
